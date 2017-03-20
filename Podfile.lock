@@ -1,0 +1,34 @@
+PODS:
+  - FTS3HTMLTokenizer (2.2.0)
+  - LDSContent (1.1.4):
+    - FTS3HTMLTokenizer (~> 2.0)
+    - ProcedureKit (= 4.0.0.beta.4)
+    - SQLite.swift
+    - SSZipArchive
+    - Swiftification
+  - ProcedureKit (4.0.0.beta.4):
+    - ProcedureKit/Standard (= 4.0.0.beta.4)
+  - ProcedureKit/Standard (4.0.0.beta.4)
+  - SQLite.swift (0.11.2):
+    - SQLite.swift/standard (= 0.11.2)
+  - SQLite.swift/standard (0.11.2)
+  - SSZipArchive (1.7)
+  - SVProgressHUD (2.1.2)
+  - Swiftification (9.2.0)
+
+DEPENDENCIES:
+  - LDSContent
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  FTS3HTMLTokenizer: 6f33bd7125bef75a8d0fdd4e51909eb21c83cea9
+  LDSContent: ba616c70ed05a191e2b29caa8949e40e5d49ac29
+  ProcedureKit: 554ca98c4d5a22ed134f12b5d929944b2abd62bf
+  SQLite.swift: 670c3e9e0a806bbfd56a3de5d530768dc0e6fe7c
+  SSZipArchive: 63f8e11cfcc33e03e4cd666b4359ea8bd6facd0c
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  Swiftification: 20aa4e19571a41173c9e96c8b4170da429545945
+
+PODFILE CHECKSUM: 37da622ba54d368d599c657787136572c6227b3b
+
+COCOAPODS: 1.2.0

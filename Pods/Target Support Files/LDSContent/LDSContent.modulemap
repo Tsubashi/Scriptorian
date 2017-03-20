@@ -1,0 +1,6 @@
+framework module LDSContent {
+  umbrella header "LDSContent-umbrella.h"
+
+  export *
+  module * { export * }
+}

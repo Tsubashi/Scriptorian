@@ -1,0 +1,6 @@
+framework module FTS3HTMLTokenizer {
+  umbrella header "FTS3HTMLTokenizer-umbrella.h"
+
+  export *
+  module * { export * }
+}
